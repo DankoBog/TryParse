@@ -1,0 +1,7 @@
+C:\Users\Elev\source\repos\TryParse = (Bruh)\TryParse = (Bruh)\bin\Debug\TryParse = (Bruh).exe.config
+C:\Users\Elev\source\repos\TryParse = (Bruh)\TryParse = (Bruh)\bin\Debug\TryParse = (Bruh).exe
+C:\Users\Elev\source\repos\TryParse = (Bruh)\TryParse = (Bruh)\bin\Debug\TryParse = (Bruh).pdb
+C:\Users\Elev\source\repos\TryParse = (Bruh)\TryParse = (Bruh)\obj\Debug\TryParse = (Bruh).csprojAssemblyReference.cache
+C:\Users\Elev\source\repos\TryParse = (Bruh)\TryParse = (Bruh)\obj\Debug\TryParse = (Bruh).csproj.CoreCompileInputs.cache
+C:\Users\Elev\source\repos\TryParse = (Bruh)\TryParse = (Bruh)\obj\Debug\TryParse = (Bruh).exe
+C:\Users\Elev\source\repos\TryParse = (Bruh)\TryParse = (Bruh)\obj\Debug\TryParse = (Bruh).pdb
